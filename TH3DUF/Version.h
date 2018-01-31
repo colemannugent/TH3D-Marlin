@@ -89,6 +89,6 @@
    * The WEBSITE_URL is the location where users can get more information such as
    * documentation about a specific Marlin release.
    */
-  #define WEBSITE_URL "TH3DStudio.com"
+  #define WEBSITE_URL "colemannugent.com"
 
 #endif // USE_AUTOMATIC_VERSIONING

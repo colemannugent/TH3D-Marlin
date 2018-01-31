@@ -66,7 +66,7 @@
 //===========================================================================
 // Creality CR-10S Options - Select Arduino Mega 2560 from Tools
 //===========================================================================
-//#define CR10S
+#define CR10S
 //#define CR10S_MINI
 //#define CR10S_S4
 //#define CR10S_S5
@@ -158,7 +158,7 @@
 // If you use large binder clips to hold your glass or other surface please
 // uncomment this line to make the probing area set further in. If the sensor
 // probes over a binder clip it will give it an invalid reading.
-//#define BINDER_CLIPS
+#define BINDER_CLIPS
 
 // If you are having leveling issues with the EZABL try uncommenting the below
 // line. This will change the leveling type from bilinear to linear. Some printers
@@ -188,7 +188,7 @@
 //#define TM3D_BOOT
 
 // Use your own printer name
-//#define USER_PRINTER_NAME "Change Me" 
+#define USER_PRINTER_NAME "Coleman's Printer" 
 
 // If you want to keep your heaters ON during probing uncomment the below line. We do NOT recommend doing this on AC beds.
 //#define HEATERS_ON_DURING_PROBING

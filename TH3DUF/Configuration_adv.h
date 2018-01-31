@@ -386,7 +386,7 @@
   //#define HOME_BEFORE_FILAMENT_CHANGE       // Ensure homing has been completed prior to parking for filament change
 #endif
 
-//#define PINS_DEBUGGING
+#define PINS_DEBUGGING
 
 #define AUTO_REPORT_TEMPERATURES
 
